@@ -1,3 +1,5 @@
 src/__pycache__/
 main.sh
 test.sh
+public
+build.sh
